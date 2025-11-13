@@ -1,0 +1,24 @@
+{
+  "name": "atividade3ppi",
+  "version": "1.0.0",
+  "description": "Atividade 03 PPI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j1204fernandes-crypto/Atividade2PPI.git"
+  },
+  "author": "João Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j1204fernandes-crypto/Atividade2PPI/issues"
+  },
+  "homepage": "https://github.com/j1204fernandes-crypto/Atividade2PPI#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
